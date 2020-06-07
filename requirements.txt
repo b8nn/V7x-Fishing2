@@ -1,4 +1,0 @@
-flask
-flask_ngrok
-V7xStyle==1.0
-requests
