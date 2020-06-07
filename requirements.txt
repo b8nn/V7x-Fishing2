@@ -1,4 +1,4 @@
 flask
 flask_ngrok
-V7xStyle==1.0
+V7xStyle==2.0.1
 requests
